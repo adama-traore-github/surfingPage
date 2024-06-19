@@ -1,0 +1,43 @@
+.bg-light-purple{
+    background-color: rgb(38, 40, 40);
+}
+.ml-large {
+    margin-left: 50px; /* Ajustez cette valeur selon vos besoins */
+}
+.opacity-on-hover {
+    color: white; /* Couleur de départ */
+    opacity: 0.5; /* Opacité de départ */
+    transition: opacity 0.3s; /* Animation de transition */
+}
+
+.opacity-on-hover:hover,
+    .opacity-on-hover:focus {
+        opacity: 1; 
+}
+
+.hh{
+    margin-right: 5px;
+}
+.hhh{
+    margin-left: 5px;
+}
+.hhero{
+    margin-top: 40px;
+}
+.ii{
+    margin-top: 15px;
+}
+.card-img {
+    height: 400px; /* ou la hauteur souhaitée */
+    object-fit: cover; /* pour s'assurer que l'image couvre toute la hauteur spécifiée */
+}
+
+.aa{
+    font-size: 25px;
+}
+.aaa{
+    font-size: 40px;
+}
+.qq{
+    margin-bottom: 30px;
+}
